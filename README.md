@@ -14,3 +14,4 @@ It's intended as a light-hearted assignment to help students learn how to create
 ## 🐾 Warning
 
 May contain excessive cuteness and unexpected meowing.
+<img width="1440" height="810" alt="Mister Meow's Resume_001" src="https://github.com/user-attachments/assets/b979f968-de59-4f5a-aab9-d45624bd56ac" />
